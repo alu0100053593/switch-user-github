@@ -1,0 +1,3 @@
+#!/bin/bash
+git config user.name alu0100053593
+git config user.email alu0100053593@gmail.com
